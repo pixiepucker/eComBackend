@@ -4,7 +4,7 @@
   
 
   ## Description ✨
-  This week's project was to build the backend of an eCommerce site using Express.js, MySQL2, Sequelize, and dotenv. In order to build the backend of this site, I used the packages listed and followed Module 13 lessons closely to find patterns and replicate them in my work. I was able to complete this project in 1 day thanks to starter code that was provided to me through my Coding Bootcamp. You can find a link to the walkthrough video on my [YouTube.](https://www.youtube.com/watch?v=CjdVerSWTuU) 💙
+  This week's project was to build the backend of an eCommerce site using Express.js, MySQL2, Sequelize, and dotenv. In order to build the backend of this site, I used the packages listed and followed Module 13 lessons closely to find patterns and replicate them in my work. I was able to complete this project in 1 day thanks to starter code that was provided to me through my Coding Bootcamp. You can find a link to the walkthrough video on my [YouTube.](https://www.youtube.com/watch?v=t4NncqOlW48) 💙
 
   ## Table of Contents
   - [Installation](#installation)
